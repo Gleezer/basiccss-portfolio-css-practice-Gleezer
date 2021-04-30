@@ -7,8 +7,16 @@ body {
     text-align: center;
 }
 
-a  {
+a:link {
     color: black;
     font-weight: bold; 
 
 }
+
+
+a:visited {
+    color: black;
+    font-weight: bold; 
+}
+
+
